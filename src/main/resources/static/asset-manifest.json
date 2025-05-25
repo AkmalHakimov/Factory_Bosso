@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d9f23496.css",
+    "main.js": "/static/js/main.03f52f6e.js",
+    "static/media/sourcesanspro-bold-webfont.woff": "/static/media/sourcesanspro-bold-webfont.775da864e3f6244d5ef3.woff",
+    "static/media/sourcesanspro-regular-webfont.woff": "/static/media/sourcesanspro-regular-webfont.51ac0ed151765fb2600f.woff",
+    "static/media/sourcesanspro-bold-webfont.woff2": "/static/media/sourcesanspro-bold-webfont.02452527deb9481a7458.woff2",
+    "static/media/sourcesanspro-regular-webfont.woff2": "/static/media/sourcesanspro-regular-webfont.0c584168795e262699d6.woff2",
+    "static/media/my-pic.jpeg": "/static/media/my-pic.feb275ccd03dfda99887.jpeg",
+    "static/media/github-icon.svg": "/static/media/github-icon.e14a6512139f8aa1c1876992b907d2aa.svg",
+    "static/media/linkedin-icon.svg": "/static/media/linkedin-icon.eae71dee56b308808ee8dea8f06366e3.svg",
+    "static/media/telegram-icon.svg": "/static/media/telegram-icon.67ab51949aee62058072b2c51d68e281.svg",
+    "static/media/icons8-youtube (1).svg": "/static/media/icons8-youtube (1).9114f4ba6b264c032dff80b18c6eb028.svg",
+    "index.html": "/index.html",
+    "main.d9f23496.css.map": "/static/css/main.d9f23496.css.map",
+    "main.03f52f6e.js.map": "/static/js/main.03f52f6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9f23496.css",
+    "static/js/main.03f52f6e.js"
+  ]
+}
